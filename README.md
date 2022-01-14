@@ -10,4 +10,4 @@ Projeto desenvolvido durante a parte II do capítulo I da trilha de React Native
 - Componentes Nativos do React Native (View, Text, TextInput, ScrollView, FlatList, StyleSheet, TouchableOpacity e StatusBar)
 
 ### Demonstração do App em funcionamento:
-![imagem do funcionamento do aplicativo](https://i.imgur.com/qjb2EAi.gif)
+![imagem do funcionamento do aplicativo](https://i.imgur.com/SsXxLTY.gif)
